@@ -1,0 +1,16 @@
+Revenue Calculator
+
+Overall:
+
+It's a basic calculator designed mostly for gingerbread. You can add different ingredients for the calculation and can dicede wheather you want to add an extra field where you can add your worktime and hourly wage so it will be given to the calculation. In the end you will be able to save your calculation.
+
+Specifications:
+
+This is a full front-end application with React and Typscipt.
+- You will see the basic elements of a basic gingerbread on the right side of the window which you can add to the recipe.
+- You can add your own ingredients if you need something specific.
+- You have to add some details about the ingredient:
+	- There are two fields whose purpose is that the first one is the amount from the 		  ingredient and the second one is the price of that amount of that ingredient.
+	- The third field is the amount of ingredient you need for the recipe
+- You have the possibility to add the worktime and the hourly wage you want to earn. This is optional.
+- You have the option also to save the calculation on your local computer.
